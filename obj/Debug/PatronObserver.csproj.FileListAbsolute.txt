@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\PatronObserver\bin\Debug\PatronObserver.exe.config
+C:\Users\gabri\source\repos\PatronObserver\bin\Debug\PatronObserver.exe
+C:\Users\gabri\source\repos\PatronObserver\bin\Debug\PatronObserver.pdb
+C:\Users\gabri\source\repos\PatronObserver\obj\Debug\PatronObserver.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\PatronObserver\obj\Debug\PatronObserver.Form1.resources
+C:\Users\gabri\source\repos\PatronObserver\obj\Debug\PatronObserver.Properties.Resources.resources
+C:\Users\gabri\source\repos\PatronObserver\obj\Debug\PatronObserver.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\PatronObserver\obj\Debug\PatronObserver.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\PatronObserver\obj\Debug\PatronObserver.exe
+C:\Users\gabri\source\repos\PatronObserver\obj\Debug\PatronObserver.pdb
