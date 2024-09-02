@@ -1,0 +1,2 @@
+# patronObserver
+patrones de diseño
